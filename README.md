@@ -1,6 +1,6 @@
 This repository contains several files and scripts that correspond to different stages of data processing, analysis, and modeling as described below:
 
-##1. Dataset Information
+#1. Dataset Information
 The data used for this project is located in the file shared-files-HuiyingWang.txt. This dataset comprises two key components:
 
 Dataset: Contains the source data files, including:
