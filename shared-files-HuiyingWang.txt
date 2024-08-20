@@ -1,0 +1,27 @@
+1. Dataset :dataset+ Dissertation      
+https://universityofexeteruk-my.sharepoint.com/:x:/r/personal/wh401_exeter_ac_uk/Documents/Dissertation/product%20dataset.csv?d=w23bc3154b195453dab03feb549e31046&csf=1&web=1&e=1nlVQm
+review + Dissertation
+https://universityofexeteruk-my.sharepoint.com/:x:/r/personal/wh401_exeter_ac_uk/Documents/Dissertation/review.csv?d=wd4069bb155ae438a93e73e49afcebcd3&csf=1&web=1&e=Mtg3ma2. Preprogress :
+pre_progress_data+ Dissertation 
+https://universityofexeteruk-my.sharepoint.com/:x:/r/personal/wh401_exeter_ac_uk/Documents/Dissertation/pre_progress_data.csv?d=w0daaf6fe7c804819b9b47e85911f3984&csf=1&web=1&e=0mmuFxlink
+
+3.M1 Final results:
+df_all_M1 + Dissertation 
+
+https://universityofexeteruk-my.sharepoint.com/:x:/r/personal/wh401_exeter_ac_uk/Documents/Dissertation/df_all_M1.csv?d=w99fb0135751241c3a237a4231ef808c2&csf=1&web=1&e=47JISd
+
+
+4.M2 Final results:
+cluster_df+ Dissertation (K-means results )
+
+https://universityofexeteruk-my.sharepoint.com/:x:/r/personal/wh401_exeter_ac_uk/Documents/Dissertation/cluster_df.csv?d=w1cc37441fdb64d19b8ff9f756d1d04be&csf=1&web=1&e=FZhEp6
+
+
+df_all_M2 + Dissertation 
+
+https://universityofexeteruk-my.sharepoint.com/:x:/r/personal/wh401_exeter_ac_uk/Documents/Dissertation/df_all_M2.csv?d=w8b752c74151e4595a99102c4eff8e993&csf=1&web=1&e=WjZ7dI
+
+5. Label by manual Used to Confusion Metrics:
+Data_Label_merged_df_all_M1&M2_10000row + Dissertation 
+
+https://universityofexeteruk-my.sharepoint.com/:x:/r/personal/wh401_exeter_ac_uk/Documents/Dissertation/Data_Label_merged_df_all_M1%26M2_10000row.csv?d=w3789ad4e3fab42439b1371f51f2f01ac&csf=1&web=1&e=lRnHpz
